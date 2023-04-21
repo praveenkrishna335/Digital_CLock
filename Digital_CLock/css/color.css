@@ -1,0 +1,9 @@
+p{
+    border: 1px solid;
+    background-color: hsl(180, 65%, 45%, 0.3);
+}
+div{
+    height: 800px;
+    background-image: url("../img/flower1.jpg");
+    background-repeat: no-repeat;
+}

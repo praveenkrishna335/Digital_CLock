@@ -1,0 +1,28 @@
+#grandparent{
+    border: 1px solid;
+    padding: 25px;
+    height: 2500px;
+}
+#parent{
+    border: 1px solid;
+    /* position: relative; */
+    height: 1600px;
+}
+p{
+    border: 1px solid;
+    height: 250px;
+    width: 250px;
+    
+}
+#para1{
+    background-color: red;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
+#para2{
+    background-color: blue;
+}
+#para3{
+    background-color: aqua;
+}

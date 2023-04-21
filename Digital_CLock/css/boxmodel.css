@@ -1,0 +1,26 @@
+#div1{
+    border: 1px solid;
+}
+#div2{
+    border: 1px solid;
+    margin: 35px;
+}
+.para1{
+    border: 5px solid;
+    border-style: inset;
+    border-top-right-radius: 25px;
+    border-bottom-style: none;
+    border-color: aqua;
+    padding: 25px;
+    padding-left: 35px;
+    display: inline-block;
+    width: 250px;
+    margin-right: 25px;
+    margin: 50px;
+    border-right-color: red;
+}
+
+
+#parafirst{
+    margin-left: 250px;
+}

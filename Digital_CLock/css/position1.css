@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+#header_content{
+    border: 1px solid;
+    text-align: center;
+    background-color: aqua;
+}
+#nav_content{
+    border: 1px solid;
+    background-color: rgb(17, 195, 195);
+    word-spacing: 250px;
+    line-height: 50px;
+    position: sticky;
+    top: 0px;
+}
+#section1_content{
+    border: 1px solid;
+    background-color: lightcyan;
+
+    height: 700px;
+}
+#footer_content{
+    border: 1px solid;
+    background-color: rgb(41, 41, 170);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+#section2_content{
+    border: 1px solid;
+    background-color: lightcoral;
+    height: 700px;
+}

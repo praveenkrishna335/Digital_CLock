@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+ul{
+    border: 1px solid;
+    height: 150px;
+    overflow: scroll;
+}
+
+div{
+    border: 1px solid;
+}
+p{
+    border: 1px solid;
+    display: inline-block;
+    width: 442px;
+}
+/* span{
+    border: 1px solid;
+    min-width : 500px; ;
+    display: inline-block; 
+}  */
